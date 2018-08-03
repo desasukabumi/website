@@ -1,4 +1,4 @@
 ---
 title: Hi
 ---
-Hi
+{{ $page.title }}
