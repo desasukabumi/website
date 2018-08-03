@@ -1,5 +1,5 @@
 ---
-title: Test 123
+title: post 1
 ---
 
 # {{ $page.title }}
