@@ -1,8 +1,5 @@
 ---
 title: Lembaga di Desa Suka Bumi
-meta:
-  - name: description
-    content: Struktur organisasi UPPKS Desa Suka Bumi.
 ---
 
 # {{ $page.title }}
@@ -18,3 +15,18 @@ meta:
 | Seksi Dana/Usaha    | Darwati          |
 | Seksi Simpan Pinjam | Haryati          |
 | Seksi Pemasaran     | Sri Setyaningsih |
+
+## Struktur Lembaga LINMAS
+
+| Jabatan             | Nama             |
+| ------------------- | ---------------- |
+| Komandan Pleton     | Ponaji           |
+| Anggota             | Suyanto          |
+| Anggota             | Trimorejo        |
+| Anggota             | A. Faisal        |
+| Anggota             | Slamet           |
+| Anggota             | Walyono          |
+| Anggota             | Susanto          |
+| Anggota             | Suparlan         |
+| Anggota             | Kartiman         |
+| Anggota             | Puji Pangestu    |
