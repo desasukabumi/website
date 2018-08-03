@@ -1,0 +1,50 @@
+backend:
+  name: github
+  repo: desasukabumi/website
+  branch: master
+
+media_folder: ".vuepress/public/img"
+
+public_folder: ".vuepress/dist/img"
+
+display_url: https://sukabumi.netlify.com
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+- name: "home"
+  label: "Home"
+  files:
+  - label: "Home Page"
+    name: "home"
+    file: "docs/README.md"
+    fields:
+      - {label: Description, name: description, widget: string}
+      - {label: Action Text, name: actionText, widget: string}
+      - {label: Action Link, name: actionLink, widget: string}
+      - label: About
+        name: features
+        widget: list
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Details, name: details, widget: string}
+      - {label: Footer, name: footer, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+- name: "pages"
+  label: "Pages"
+  folder: "docs"
+  fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
+
+- name: "posts"
+  label: "Posts"
+  folder: "docs/blog"
+  create: true
+  slug: "blog/{{slug}}"
+  fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
