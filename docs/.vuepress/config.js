@@ -1,10 +1,10 @@
 module.exports = {
+  head: [["link", { rel: "icon", href: "/img/logo.png" }]],
   locales: {
     "/": {
       lang: "id",
       title: "Suka Bumi",
-      description: "Desa berkembang di Kota Bangun",
-      head: [["link", { rel: "icon", href: "/img/logo.png" }]]
+      description: "Desa berkembang di Kota Bangun"
     }
   },
   themeConfig: {
