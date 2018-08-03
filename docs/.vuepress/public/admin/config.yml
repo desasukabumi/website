@@ -20,6 +20,7 @@ collections:
   - label: "Home Page"
     name: "home"
     file: "docs/README.md"
+    delete: false
     fields:
       - {label: Description, name: description, widget: string}
       - {label: Action Text, name: actionText, widget: string}
@@ -33,14 +34,15 @@ collections:
       - {label: Footer, name: footer, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
 
-- name: "pages"
+- name: "page"
   label: "Pages"
   folder: "docs"
+  delete: false
   fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
 
-- name: "posts"
+- name: "post"
   label: "Posts"
   folder: "docs/blog"
   create: true
