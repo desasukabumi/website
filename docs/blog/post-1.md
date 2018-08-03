@@ -1,8 +1,5 @@
 ---
-title: Post 1
-meta:
-  - name: description
-    content: 
+title: Test 123
 ---
 
 # {{ $page.title }}
