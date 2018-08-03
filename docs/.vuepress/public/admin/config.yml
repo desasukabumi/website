@@ -35,7 +35,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
 
 - name: "page"
-  label: "Pages"
+  label: "Page"
   folder: "docs"
   delete: false
   fields:
@@ -43,10 +43,10 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
 
 - name: "post"
-  label: "Posts"
+  label: "Post"
   folder: "docs/blog"
   create: true
-  slug: "blog/{{slug}}"
+  slug: "{{slug}}"
   fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
