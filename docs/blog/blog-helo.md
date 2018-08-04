@@ -1,4 +1,4 @@
 ---
-title: helo
+title: Helo
 ---
 bisa gk ya
