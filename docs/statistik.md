@@ -1,9 +1,5 @@
 ---
 title: Statistik Desa
-meta:
-  - name: description
-    content: Statistik penduduk Desa Suka Bumi
-sidebar: auto
 ---
 
 # {{ $page.title }}
@@ -23,7 +19,7 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 | D3                 |   11   |
 | S1                 |   43   |
 | S2                 |   1    |
-
+---
 ## Agama
 
 | Agama   | Jumlah |
@@ -33,7 +29,7 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 | Katolik |   17   |
 | Budha   |   10   |
 | Hindu   |   0    |
-
+---
 ## Jenis Kelamin
 
 | Jenis Kelamin |  Jumlah  |
@@ -41,7 +37,7 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 | Laki-Laki     |   718    |
 | Perempuan     |   665    |
 | **Total**     | **1383** |
-
+---
 ## Usia
 
 | Klasifikasi      | Jumlah |
@@ -55,7 +51,7 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 | Lansia Awal      |  135   |
 | Lansia Akhir     |  100   |
 | Manula           |   61   |
-
+---
 ## Pekerjaan
 
 | Jenis Pekerjaan    | Jumlah |
@@ -79,3 +75,4 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 | Honorer            |   1    |
 | Bidan              |   1    |
 | Belum Bekerja      |  216   |
+---
