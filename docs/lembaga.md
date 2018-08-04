@@ -4,6 +4,15 @@ title: Lembaga di Desa Suka Bumi
 
 # {{ $page.title }}
 
+## Struktur Lembaga PKK
+
+| Jabatan             | Nama             |
+| ------------------- | ---------------- |
+| Ketua               | Salmawati        |
+| Wakil Ketua         | Haryati          |
+| Sekretaris          | Siti Martinah        |
+| Bendahara           | Sumarniyatun        |
+
 ## Struktur Lembaga UPPKS
 
 | Jabatan             | Nama             |
@@ -41,4 +50,19 @@ title: Lembaga di Desa Suka Bumi
 | Ketua bid. Ekonomi  | Haris Prasetyo   |
 | Ketua bid. SDM      | Samsul Arifin    |
 | Ketua bid. Infrastruktur| Sukardi          |
+
+## Struktur Posyandu Teratai Satu
+
+| Jabatan             | Nama             |
+| ------------------- | ---------------- |
+| Ketua               | Marlina Efendi   |
+| Sekretaris          | Baiq Rohati      |
+| Bendahara           | Kusniwati   |
+| Seksi Gizi          | Raini  |
+| Seksi Penimbangan      | Siti Aminah  |
+
+
+
+
+
 
