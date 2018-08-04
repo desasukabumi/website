@@ -4,7 +4,7 @@ title: Lembaga di Desa Suka Bumi
 
 # {{ $page.title }}
 
-## Struktur Organisasi UPPKS
+## Struktur Lembaga UPPKS
 
 | Jabatan             | Nama             |
 | ------------------- | ---------------- |
@@ -30,3 +30,15 @@ title: Lembaga di Desa Suka Bumi
 | Anggota             | Suparlan         |
 | Anggota             | Kartiman         |
 | Anggota             | Puji Pangestu    |
+
+## Struktur Lembaga LPM
+
+| Jabatan             | Nama             |
+| ------------------- | ---------------- |
+| Ketua               | Muhammad Sukri   |
+| Sekretaris          | Dede Kurniawan   |
+| Bendahara           | Sunaryo Suhud    |
+| Ketua bid. Ekonomi  | Haris Prasetyo   |
+| Ketua bid. SDM      | Samsul Arifin    |
+| Ketua bid. Infrastruktur| Sukardi          |
+
