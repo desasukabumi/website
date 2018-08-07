@@ -13,6 +13,17 @@ title: Lembaga di Desa Suka Bumi
 | Sekretaris          | Siti Martinah        |
 | Bendahara           | Sumarniyatun        |
 ---
+
+## Struktur Lembaga BPD
+
+| Jabatan             | Nama             |
+| ------------------- | ---------------- |
+| Ketua               | Joko Abdurahman  |
+| Wakil               | Sugito, SPd      |
+| Sekretaris          | Danang Kuncoro   |
+| Anggota             | Ahmad Suparlan   |
+| Anggota             | Sri Banun        |
+
 ## Struktur Lembaga UPPKS
 
 | Jabatan             | Nama             |
@@ -51,7 +62,16 @@ title: Lembaga di Desa Suka Bumi
 | Ketua bid. SDM      | Samsul Arifin    |
 | Ketua bid. Infrastruktur| Sukardi          |
 ---
-## Struktur Karang Taruna 
+## Struktur Karang Taruna Putra Bangun
+
+| Jabatan             | Nama             |
+| ------------------- | ---------------- |
+| Ketua               | M. Haerur Rozi   |
+| Sekretaris          | Gandiki Setiawan  |
+| Bendahara           | Supriyanto     |
+| Ketua bid. Keterampilan | Sri Mulyono   |
+| Ketua bid. Seni dan Sosbud     | Endah   |
+| Ketua bid. Ketenaga Kerjaan| Arif Dedi Utomo |
 ---
 ## Struktur Posyandu Teratai Satu
 ---
