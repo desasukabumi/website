@@ -4,7 +4,7 @@ title: Lembaga di Desa Suka Bumi
 
 # {{ $page.title }}
 
-## Struktur Lembaga PKK
+## Struktur Lembaga PKK 2018
 
 | Jabatan             | Nama             |
 | ------------------- | ---------------- |
@@ -14,7 +14,7 @@ title: Lembaga di Desa Suka Bumi
 | Bendahara           | Sumarniyatun        |
 ---
 
-## Struktur Lembaga BPD
+## Struktur Lembaga BPD 2018
 
 | Jabatan             | Nama             |
 | ------------------- | ---------------- |
@@ -24,7 +24,7 @@ title: Lembaga di Desa Suka Bumi
 | Anggota             | Ahmad Suparlan   |
 | Anggota             | Sri Banun        |
 
-## Struktur Lembaga UPPKS
+## Struktur Lembaga UPPKS 2018
 
 | Jabatan             | Nama             |
 | ------------------- | ---------------- |
@@ -36,7 +36,7 @@ title: Lembaga di Desa Suka Bumi
 | Seksi Simpan Pinjam | Haryati          |
 | Seksi Pemasaran     | Sri Setyaningsih |
 ---
-## Struktur Lembaga LINMAS
+## Struktur Lembaga LINMAS 2018
 
 | Jabatan             | Nama             |
 | ------------------- | ---------------- |
@@ -51,7 +51,7 @@ title: Lembaga di Desa Suka Bumi
 | Anggota             | Kartiman         |
 | Anggota             | Puji Pangestu    |
 ---
-## Struktur Lembaga LPM
+## Struktur Lembaga LPM 2018
 
 | Jabatan             | Nama             |
 | ------------------- | ---------------- |
@@ -62,7 +62,7 @@ title: Lembaga di Desa Suka Bumi
 | Ketua bid. SDM      | Samsul Arifin    |
 | Ketua bid. Infrastruktur| Sukardi          |
 ---
-## Struktur Karang Taruna Putra Bangun
+## Struktur Karang Taruna Putra Bangun 2018
 
 | Jabatan             | Nama             |
 | ------------------- | ---------------- |
@@ -73,7 +73,7 @@ title: Lembaga di Desa Suka Bumi
 | Ketua bid. Seni dan Sosbud     | Endah   |
 | Ketua bid. Ketenaga Kerjaan| Arif Dedi Utomo |
 ---
-## Struktur Posyandu Teratai Satu
+## Struktur Posyandu Teratai Satu 2018
 ---
 
 | Jabatan             | Nama             |
