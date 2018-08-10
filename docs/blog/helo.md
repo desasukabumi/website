@@ -1,5 +1,5 @@
 ---
-title: Helo
+title: helo
 ---
 {{ $page.title }}
 Belum terisi
