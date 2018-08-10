@@ -2,4 +2,4 @@
 title: Hi
 ---
 {{ $page.title }}
-coba lagi
+belum terisi.
