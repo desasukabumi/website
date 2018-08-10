@@ -1,11 +1,6 @@
 ---
 title: Insfrastruktur Desa Suka Bumi
-meta:
-  - name: description
-    content: Statistik infrastruktur Desa Suka Bumi.
-sidebar: auto
 ---
-
 # {{ $page.title }}
 
 ## Pendidikan
