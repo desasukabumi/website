@@ -1,6 +1,7 @@
 ---
 title: Statistik Desa
 ---
+
 # {{ $page.title }}
 
 Berikut adalah statistik penduduk di Desa Suka Bumi.

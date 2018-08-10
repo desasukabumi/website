@@ -1,6 +1,7 @@
 ---
 title: Profil Desa
 ---
+
 # {{ $page.title }}
 
 - Nama desa: Suka Bumi

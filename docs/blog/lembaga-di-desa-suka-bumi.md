@@ -1,6 +1,7 @@
 ---
 title: Lembaga di Desa Suka Bumi
 ---
+
 # {{ $page.title }}
 
 ## Struktur Lembaga PKK 2018

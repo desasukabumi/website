@@ -1,6 +1,7 @@
 ---
 title: Insfrastruktur Desa Suka Bumi
 ---
+
 # {{ $page.title }}
 
 ## Pendidikan

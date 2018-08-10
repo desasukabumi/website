@@ -7,46 +7,46 @@ media_folder: ".vuepress/public/img"
 
 public_folder: ".vuepress/dist/img"
 
-display_url: https://sukabumi.netlify.com
+display_url: https://desasukabumi.netlify.com
 
 slug:
   encoding: "ascii"
   clean_accents: true
 
 collections:
-- name: "home"
-  label: "Home"
-  files:
-  - label: "Home Page"
-    name: "home"
-    file: "docs/README.md"
+  - name: "home"
+    label: "Home"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "docs/README.md"
+        delete: false
+        fields:
+          - { label: Description, name: description, widget: string }
+          - { label: Action Text, name: actionText, widget: string }
+          - { label: Action Link, name: actionLink, widget: string }
+          - label: About
+            name: features
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Details, name: details, widget: string }
+          - { label: Footer, name: footer, widget: string }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "page"
+    label: "Page"
+    folder: "docs"
     delete: false
     fields:
-      - {label: Description, name: description, widget: string}
-      - {label: Action Text, name: actionText, widget: string}
-      - {label: Action Link, name: actionLink, widget: string}
-      - label: About
-        name: features
-        widget: list
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Details, name: details, widget: string}
-      - {label: Footer, name: footer, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
-- name: "page"
-  label: "Page"
-  folder: "docs"
-  delete: false
-  fields:
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Body", name: "body", widget: "markdown"}
-
-- name: "post"
-  label: "Post"
-  folder: "docs/blog"
-  create: true
-  slug: "{{slug}}"
-  fields:
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Body", name: "body", widget: "markdown"}
+  - name: "post"
+    label: "Post"
+    folder: "docs/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
