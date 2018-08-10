@@ -93,4 +93,4 @@ title: Lembaga di Desa Suka Bumi
 | Sekretaris        | Baiq Rohati    |
 | Bendahara         | Kusniwati      |
 | Seksi Gizi        | Raini          |
-| Seksi Penimbangan | Siti Aminah    |
+| Seksi Penimbangan | Siti Aminah     |
