@@ -1,10 +1,6 @@
 ---
 title: Profil Desa
-meta:
-  - name: description
-    content: Profil Desa Suka Bumi.
 ---
-
 # {{ $page.title }}
 
 - Nama desa: Suka Bumi
