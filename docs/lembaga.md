@@ -7,7 +7,7 @@ title: Lembaga di Desa Suka Bumi--
 
 | Jabatan     | Nama          |
 | ----------- | ------------- |
-| Ketua       | Salmawati      |
+| Ketua       | Salmawati     |
 | Wakil Ketua | Haryati       |
 | Sekretaris  | Siti Martinah |
 | Bendahara   | Sumarniyatun  |
@@ -93,4 +93,4 @@ title: Lembaga di Desa Suka Bumi--
 | Sekretaris        | Baiq Rohati    |
 | Bendahara         | Kusniwati      |
 | Seksi Gizi        | Raini          |
-| Seksi Penimbangan | Siti Aminah     |
+| Seksi Penimbangan | Siti Aminah    |
