@@ -1,5 +1,5 @@
 ---
-title: Lembaga di Desa Suka Bumi
+title: 'Lembaga di Desa Suka Bumi '
 ---
 # {{ $page.title }}
 
