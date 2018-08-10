@@ -7,7 +7,7 @@ title: Lembaga di Desa Suka Bumi
 
 | Jabatan     | Nama          |
 | ----------- | ------------- |
-| Ketua       | Salmawati     |
+| Ketua       | Salmawati      |
 | Wakil Ketua | Haryati       |
 | Sekretaris  | Siti Martinah |
 | Bendahara   | Sumarniyatun  |
