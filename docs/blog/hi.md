@@ -7,4 +7,4 @@ belum terisi.
 
 ![null](/img/anak1.jpg)
 
-![hijau](/docs/.vuepress/public/img/suka-bumi.jpg)
+![hijau](/img/suka-bumi.jpg)
