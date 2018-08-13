@@ -1,10 +1,10 @@
 ---
-title: Hi
+title: Kegiatan Berama Ibu-Ibu Posyandu
 ---
 {{ $page.title }}
 
-belum terisi.
+Kegiatan anggota KKN 44 Desa Sukabumi membantu Ibu-Ibu di Posyandu teratai 1 dalam kegiatan rutinitas bulanan.
 
-![null](/img/anak1.jpg)
+![](/img/posyandu1.jpg)
 
-![hijau](/img/suka-bumi.jpg)
+![](/img/posyandu2.jpg)
