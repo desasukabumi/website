@@ -1,3 +1,6 @@
 .env
 docs/.vuepress/dist
+img/
 node_modules
+README.md
+README.pdf
