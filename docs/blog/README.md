@@ -5,4 +5,6 @@ title: Blog
 # {{ $page.title }}
 
 - [Hi](./hi.md)
-- [ABC](./hi.md)
+- [ABC](./abc.md)
+- [Helo](./helo.md)
+
