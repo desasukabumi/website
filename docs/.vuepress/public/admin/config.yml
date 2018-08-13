@@ -5,7 +5,7 @@ backend:
 
 media_folder: "/docs/.vuepress/public/img/"
 
-public_folder: "/docs/.vuepress/public/img/"
+public_folder: "/"
 
 display_url: https://desasukabumi.netlify.com
 
