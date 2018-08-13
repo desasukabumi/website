@@ -1,14 +1,13 @@
 ---
 title: Profil Desa
 ---
+# Profil Desa
 
-# {{ $page.title }}
-
-- Nama desa: Suka Bumi
-- Tahun pembentukan: 1985
-- Kode pos: 75561
-- Kecamatan: Kota Bangun
-- Kabupaten: Kutai Kartanegara
+* Nama desa: Suka Bumi
+* Tahun pembentukan: 1985
+* Kode pos: 75561
+* Kecamatan: Kota Bangun
+* Kabupaten: Kutai Kartanegara
 
 ## Perangkat Desa
 
