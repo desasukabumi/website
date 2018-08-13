@@ -3,9 +3,9 @@ backend:
   repo: desasukabumi/website
   branch: master
 
-media_folder: ".vuepress/public/img"
+media_folder: "/docs/.vuepress/public/img/"
 
-public_folder: ".vuepress/dist/img"
+public_folder: "/docs/.vuepress/public/"
 
 display_url: https://desasukabumi.netlify.com
 
