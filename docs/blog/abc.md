@@ -3,4 +3,4 @@ title: ABC
 ---
 ABC
 
-![](/.vuepress/dist/img/anak2.jpg)
+![Anak 1](/docs/.vuepress/public/anak1.jpg)
