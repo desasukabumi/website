@@ -7,3 +7,4 @@ title: Blog
 * [Kerja Bakti Menyambut HUT RI ke-73](./kerja-bakti-menyambut-hut-ri.md)
 * [Pelatihan Paskib](pelatihan-paskib.md)
 * [Kerja Bakti](kerja-bakti.md)
+* [Perayaan HUT RI Ke 73](perayaan-hut-ri-ke-73.md)
