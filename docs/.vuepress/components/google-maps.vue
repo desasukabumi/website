@@ -1,14 +1,13 @@
 <template>
   <div>
-    <gmap-map
-      v-bind:center="center"
-      v-bind:zoom="13">
-      <gmap-marker
+    <GmapMap :center="center" :zoom="13">
+      <GmapMarker
         v-for="(item, index) in markers"
-        v-bind:key="index"
-        v-bind:position="item.position"
-        @click="center=item.position"/>
-    </gmap-map>
+        :key="index"
+        :position="item.position"
+        @click="center = item.position"
+      />
+    </GmapMap>
   </div>
 </template>
 
@@ -16,7 +15,7 @@
 import Vue from "vue";
 import * as VueGoogleMaps from "vue2-google-maps";
 Vue.use(VueGoogleMaps, {
-  load: { key: "AIzaSyDfBttwoNZvehtEUsWCcqHbwC7KcIluVHc" }
+  load: { key: process.env.VUE_APP_GOOGLE_MAPS_API_KEY }
 });
 
 export default {

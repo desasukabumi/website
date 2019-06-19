@@ -1,4 +1,10 @@
+require("dotenv").config();
+const webpack = require("webpack");
+
 module.exports = {
+  configureWebpack: config => {
+    return { plugins: [new webpack.EnvironmentPlugin({ ...process.env })] };
+  },
   head: [["link", { rel: "icon", href: "/img/logo.png" }]],
   locales: {
     "/": {

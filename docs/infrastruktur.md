@@ -1,6 +1,7 @@
 ---
 title: Insfrastruktur Desa Suka Bumi
 ---
+
 # Insfrastruktur Desa Suka Bumi
 
 ## Pendidikan

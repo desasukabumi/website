@@ -2,7 +2,7 @@
 pageClass: home
 home: true
 heroText: Suka Bumi
-description: Desa Berkembang di Kota Bangun
+tagline: Desa Berkembang di Kota Bangun
 actionText: Pelajari Lebih Lanjut →
 actionLink: /profil
 features:
@@ -12,9 +12,9 @@ features:
     details: Awalnya daerah ini tidak mempunyai nama. Nama Suka Bumi adalah hasil cabutan usulan nama dari tiap suku di desa saat itu.
   - title: KKN Pertama
     details: KKN pertama yang diselenggarakan di desa ini dilaksanakan pada tahun 1989 oleh mahasiswa dari Universitas Mulawarman.
-footer: Lisensi MIT | © 2018 KKN 44 Unmul
+footer: Lisensi MIT | © 2018-2019 KKN 44 Unmul
 ---
 
 <ClientOnly>
-  <google-maps/>
+  <google-maps />
 </ClientOnly>

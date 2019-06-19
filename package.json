@@ -1,8 +1,12 @@
 {
   "private": true,
   "dependencies": {
-    "vue2-google-maps": "^0.10.2",
-    "vuepress": "^0.12.0"
+    "core-js": "^2.6.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "vuepress": "^1.0.1",
+    "vue2-google-maps": "^0.10.6"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
