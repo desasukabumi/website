@@ -5,7 +5,7 @@ module.exports = {
   configureWebpack: config => {
     return { plugins: [new webpack.EnvironmentPlugin({ ...process.env })] };
   },
-  head: [["link", { rel: "icon", href: "/img/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   locales: {
     "/": {
       lang: "id",
@@ -15,6 +15,7 @@ module.exports = {
   },
   themeConfig: {
     lastUpdated: "Terakhir diperbarui",
+    logo: "/img/logo.png",
     nav: [
       { text: "Beranda", link: "/" },
       {
