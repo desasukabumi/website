@@ -25,7 +25,7 @@ Berikut adalah daftar mahasiswa/i yang berpartisipasi.
 
 # KKN 45 Unmul 2019
 
-![KKN](/img/kkn.jpg)
+![KKN](/img/kkn1.jpg)
 
 Kuliah Kerja Nyata (KKN) Universitas Mulawarman ke-45 ini dilaksanakan di Desa Suka Bumi Kecamatan Kota Bangun pada tanggal 1 Juli - 20 Agustus 2019.
 
