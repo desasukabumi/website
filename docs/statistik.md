@@ -23,7 +23,7 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 ---
 
 ## Agama
-                       Tahun 2019 
+                        
 | Agama   | Jumlah |   
 | ------- | ------ |
 | Islam   | 1131   |
