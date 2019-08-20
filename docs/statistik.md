@@ -9,7 +9,7 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 ## Tingkat Pendidikan
 
 | Tingkat Pendidikan | Jumlah |
-| ------------------ | ------ |
+| ------------------ | ------ |  
 | Tidak Sekolah      | 236    |
 | Tidak Tamat SD     | 217    |
 | Tamat SD           | 396    |
@@ -23,13 +23,22 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 ---
 
 ## Agama
-
-| Agama   | Jumlah |
+                       Tahun 2019 
+| Agama   | Jumlah |   
 | ------- | ------ |
 | Islam   | 1131   |
 | Kristen | 25     |
 | Katolik | 17     |
 | Budha   | 10     |
+| Hindu   | 0      |
+
+Tahun 2019
+| Agama   | Jumlah |   
+| ------- | ------ |
+| Islam   | 1363   |
+| Kristen | 20     |
+| Katolik | 17     |
+| Budha   | 11     |
 | Hindu   | 0      |
 
 ---
@@ -41,6 +50,14 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 | Laki-Laki     | 718      |
 | Perempuan     | 665      |
 | **Total**     | **1383** |
+
+Tahun 2019
+| Jenis Kelamin | Jumlah   |
+| ------------- | -------- |
+| Laki-Laki     | 723      |
+| Perempuan     | 688      |
+| **Total**     | **1411** |
+
 
 ---
 
@@ -69,6 +86,31 @@ Berikut adalah statistik penduduk di Desa Suka Bumi.
 | MRT                | 258    |
 | Karyawan Swasta    | 142    |
 | Pekebun            | 83     |
+| PNS                | 22     |
+| Buruh Harian Lepas | 6      |
+| Guru               | 5      |
+| Perdagangan        | 3      |
+| Pedagang           | 3      |
+| Perawat            | 2      |
+| Supir              | 2      |
+| Pendeta            | 2      |
+| Pensiunan          | 1      |
+| Perangkat Desa     | 1      |
+| TNI                | 1      |
+| Honorer            | 1      |
+| Bidan              | 1      |
+| Belum Bekerja      | 216    |
+
+Tahun 2019
+ Jenis Pekerjaan    | Jumlah |
+| ------------------ | ------ |
+| Pelajar/Mahasiswa  | 337    |
+| Wiraswasta         | 265    |
+| MRT                | 258    |
+| Karyawan Swasta    | 74     |
+| Pekebun            |-       |
+|  Tani              | 145    |
+|  Petrtukangan      | 5      |
 | PNS                | 22     |
 | Buruh Harian Lepas | 6      |
 | Guru               | 5      |
